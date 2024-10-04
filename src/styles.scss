@@ -1,1 +1,28 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'CalSans';
+  src: url(assets/fonts/cal-sans/CalSans-SemiBold.woff);
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url(assets/fonts/inter/Inter.ttf);
+}
+
+@font-face {
+  font-family: 'Kanit';
+  src: url(assets/fonts/kanit/Kanit-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'RobotoCondensed';
+  src: url(assets/fonts/roboto-condensed/RobotoCondensed-Regular.ttf);
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url(assets/fonts/roboto/Roboto-Regular.ttf);
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
