@@ -1,0 +1,23 @@
+{
+  "window.title": "ZonyxWeb - ${dirty}${activeEditorShort}${separator}${rootName}${separator}${appName}",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#000000",
+    "activityBar.background": "#000000",
+    "activityBar.foreground": "#5e8fc0",
+    "activityBar.inactiveForeground": "#5e8fc099",
+    "activityBarBadge.background": "#edd2d1",
+    "activityBarBadge.foreground": "#000000",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#000000",
+    "statusBar.background": "#000000",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#000000",
+    "statusBarItem.remoteBackground": "#000000",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#000000",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#00000099",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "editor.formatOnSave": true
+}
